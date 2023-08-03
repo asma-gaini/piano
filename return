@@ -1,0 +1,45 @@
+[33mcommit 3be8bbb447c02cda08d20725d32bd011bb83e81f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: asma gaini <asma.gaini@yahoo.com>
+Date:   Wed Aug 2 12:45:19 2023 +0430
+
+    remove paragraph lorem
+
+ index.html | 1 [31m-[m
+ 1 file changed, 1 deletion(-)
+
+[33mcommit e5f8454757263a8f1d02a71e8bf50ad0959dceae[m
+Author: asma gaini <asma.gaini@yahoo.com>
+Date:   Wed Aug 2 12:37:22 2023 +0430
+
+    add paragraph lorem
+
+ index.html | 3 [32m+++[m
+ 1 file changed, 3 insertions(+)
+
+[33mcommit abe8267ddbade185deddc8ee493d44f431719911[m
+Author: asma gaini <asma.gaini@yahoo.com>
+Date:   Wed Aug 2 12:01:32 2023 +0430
+
+    add project
+
+ index.html     |  98 [32m++++++++++++++++++++++++++++++++++++++++++++++[m
+ piano.js       |  29 [32m++++++++++++++[m
+ static/040.wav | Bin [31m0[m -> [32m61924[m bytes
+ static/041.wav | Bin [31m0[m -> [32m61900[m bytes
+ static/042.wav | Bin [31m0[m -> [32m61964[m bytes
+ static/043.wav | Bin [31m0[m -> [32m61916[m bytes
+ static/044.wav | Bin [31m0[m -> [32m61932[m bytes
+ static/045.wav | Bin [31m0[m -> [32m61928[m bytes
+ static/046.wav | Bin [31m0[m -> [32m61908[m bytes
+ static/047.wav | Bin [31m0[m -> [32m61952[m bytes
+ static/048.wav | Bin [31m0[m -> [32m61896[m bytes
+ static/049.wav | Bin [31m0[m -> [32m61992[m bytes
+ static/050.wav | Bin [31m0[m -> [32m62056[m bytes
+ static/051.wav | Bin [31m0[m -> [32m62024[m bytes
+ static/052.wav | Bin [31m0[m -> [32m61940[m bytes
+ static/053.wav | Bin [31m0[m -> [32m62052[m bytes
+ static/054.wav | Bin [31m0[m -> [32m62012[m bytes
+ static/055.wav | Bin [31m0[m -> [32m61972[m bytes
+ static/056.wav | Bin [31m0[m -> [32m62052[m bytes
+ style.css      | 121 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ 20 files changed, 248 insertions(+)
